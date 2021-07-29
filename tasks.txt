@@ -1,0 +1,7 @@
+Mild
+Add a created field to the database schema that contains a timestamp for when the note was saved to the database.
+Add a welcome message to individually greet your user once they’ve logged in.
+Medium
+Add a labels field to your schema that stores an array of user generated labels. In your HTML add an additional field that allows users to add labels that categorize each note (ie: ‘work’, ‘personal’, ‘CS tutorials’, etc.).
+Spicy
+Implement an additional sign-in flow. Allow users to choose to sign in via their Google account, or with a username and password. This exercise is just for practiceand learning purposes. Keep in mind that in a real-world app you would NEVER store passwords as unencrypted strings. Until you have a better understanding of web security in general, it’s better to use the authentication flow provided by companies like Google or Facebook when building apps.
